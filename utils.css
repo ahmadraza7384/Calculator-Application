@@ -1,0 +1,18 @@
+.text-center{
+    text-align: center;
+}
+.bg-color{
+    background-color:red;
+}
+.flex{
+    display:flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.button-text{
+    padding-right: 85px;
+}
